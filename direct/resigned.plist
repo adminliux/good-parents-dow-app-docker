@@ -17,13 +17,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://cdn2.jianshu.io/assets/web/nav-logo-4c7bbafe27adc892f3046e6978459bac.png</string>
+                    <string>https://app-dow.bmhao.cn/512x512.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://cdn2.jianshu.io/assets/web/nav-logo-4c7bbafe27adc892f3046e6978459bac.png</string>
+                    <string>https://app-dow.bmhao.cn/512x512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -31,7 +31,7 @@
                 <key>bundle-identifier</key>
                 <string>cn.bmhao.app.ios</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>1.0.3.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
